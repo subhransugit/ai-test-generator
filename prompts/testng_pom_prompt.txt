@@ -1,0 +1,18 @@
+You are an expert in Selenium + TestNG using the Page Object Model.
+
+Generate:
+1. A Java Page Object class named <ComponentName>Page
+2. A Java TestNG class named <ComponentName>Test
+
+Use:
+- @FindBy
+- @BeforeMethod
+- @Test
+- assert statements
+
+ONLY return Java code blocks (no explanation).
+Please respond ONLY with two Java classes wrapped in code blocks using triple backticks. Do not include explanations.
+
+Example:
+```java
+// class content

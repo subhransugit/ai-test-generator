@@ -1,0 +1,5 @@
+{
+  "repo_url": "https://github.com/in28minutes/full-stack-with-react-and-spring-boot",
+  "frontend_path": "frontend/todo-app/src/components",
+  "output_dir": "../function-tests/src/test/java"
+}

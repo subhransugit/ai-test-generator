@@ -1,0 +1,7 @@
+openai>=1.0.0
+python-dotenv
+GitPython
+langchain
+langchain_community
+langchain-openai
+tqdm
